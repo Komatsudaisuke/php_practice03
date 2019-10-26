@@ -2,10 +2,10 @@
 $name = "KOMATSU";
 
 if ($name == "KOMATSU") {
-  echo "私はKOMATSUです。";
+  echo "私は$nameです。";
  
 } else {
-  echo "KOMATSUではありません。";
+  echo "$nameではありません。";
 } 
  echo "\n";
 
